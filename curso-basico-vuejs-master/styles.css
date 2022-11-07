@@ -2,7 +2,7 @@
   font-family: sans-serif;
   flex-direction: column;
   padding: 20px;
-  min-height: 800px;
+  min-height: 2000px;
 }
 
 .green {
@@ -26,9 +26,9 @@ a {
   text-decoration: none;
 }
 
-img {
-  height: 64px;
-  width: 64px;
+.img {
+  height: 10px;
+  width: 10px;
 }
 
 a:hover {
